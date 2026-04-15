@@ -1,7 +1,6 @@
 package gay.draconevix.create_neapolitan;
 
 import com.mojang.logging.LogUtils;
-import com.simibubi.create.content.processing.sequenced.SequencedAssemblyItem;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -11,7 +10,6 @@ import net.minecraft.world.level.material.Fluid;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModContainer;
 import net.neoforged.fml.common.Mod;
-import net.neoforged.fml.config.ModConfig;
 import net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent;
 import net.neoforged.neoforge.fluids.FluidType;
 import net.neoforged.neoforge.registries.DeferredItem;
@@ -46,7 +44,7 @@ public class CreateNeapolitan {
             .craftRemainder(Items.BOWL)
             .stacksTo(1)));
 
-    public CreateNeapolitan(IEventBus modEventBus, ModContainer modContainer) {
+    public CreateNeapolitan(IEventBus modEventBus) {
         ITEMS.register(modEventBus);
         FLUID_TYPES.register(modEventBus);
         FLUIDS.register(modEventBus);
