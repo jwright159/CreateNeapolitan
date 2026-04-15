@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "type": "neoforge:tag",
+      "amount": 250,
+      "tag": "c:chocolate"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 250,
+      "fluid": "create_neapolitan:plain_ice_cream"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "create_neapolitan:chocolate_ice_cream"
+    }
+  ]
+}

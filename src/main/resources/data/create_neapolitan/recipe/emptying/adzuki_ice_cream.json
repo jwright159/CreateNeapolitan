@@ -1,0 +1,17 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "neapolitan:adzuki_ice_cream"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:bowl"
+    },
+    {
+      "amount": 250,
+      "id": "create_neapolitan:adzuki_ice_cream"
+    }
+  ]
+}

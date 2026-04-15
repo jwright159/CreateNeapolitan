@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 250,
+      "fluid": "create_neapolitan:adzuki_ice_cream"
+    }
+  ],
+  "results": [
+    {
+      "id": "neapolitan:adzuki_ice_cream"
+    }
+  ]
+}

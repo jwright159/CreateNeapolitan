@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "create_neapolitan:item/plain_ice_cream"
+    }
+}

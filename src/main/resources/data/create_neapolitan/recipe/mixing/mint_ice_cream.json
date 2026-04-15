@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "neapolitan:mint_leaves"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 250,
+      "fluid": "create_neapolitan:plain_ice_cream"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "create_neapolitan:mint_ice_cream"
+    }
+  ]
+}

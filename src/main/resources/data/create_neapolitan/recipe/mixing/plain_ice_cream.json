@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "neapolitan:ice_cubes"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 250,
+      "tag": "c:milk"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "create_neapolitan:plain_ice_cream"
+    }
+  ]
+}

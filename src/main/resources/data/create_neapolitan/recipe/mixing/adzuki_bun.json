@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "neapolitan:roasted_adzuki_beans"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 250,
+      "tag": "c:milk"
+    }
+  ],
+  "results": [
+    {
+      "id": "neapolitan:adzuki_bun"
+    }
+  ]
+}

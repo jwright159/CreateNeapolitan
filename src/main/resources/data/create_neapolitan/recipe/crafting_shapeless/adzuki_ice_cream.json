@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "neapolitan:roasted_adzuki_beans"
+    },
+    {
+      "item": "create_neapolitan:plain_ice_cream"
+    }
+  ],
+  "result": {
+    "id": "neapolitan:adzuki_ice_cream"
+  }
+}

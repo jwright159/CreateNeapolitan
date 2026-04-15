@@ -1,0 +1,14 @@
+{
+  "itemGroup.create_neapolitan": "Create: Neapolitan",
+
+  "fluid_type.create_neapolitan.plain_ice_cream": "Plain Ice Cream",
+  "fluid_type.create_neapolitan.vanilla_ice_cream": "Vanilla Ice Cream",
+  "fluid_type.create_neapolitan.chocolate_ice_cream": "Chocolate Ice Cream",
+  "fluid_type.create_neapolitan.strawberry_ice_cream": "Strawberry Ice Cream",
+  "fluid_type.create_neapolitan.mint_ice_cream": "Mint Ice Cream",
+  "fluid_type.create_neapolitan.adzuki_ice_cream": "Adzuki Ice Cream",
+  "fluid_type.create_neapolitan.banana_ice_cream": "Banana Ice Cream",
+
+  "item.create_neapolitan.plain_ice_cream": "Plain Ice Cream",
+  "item.create_neapolitan.incomplete_neapolitan_ice_cream": "Bowl of Icy Slop"
+}

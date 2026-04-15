@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "neapolitan:dried_vanilla_pods"
+    },
+    {
+      "item": "neapolitan:dried_vanilla_pods"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 250,
+      "tag": "c:milk"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "neapolitan:vanilla_fudge"
+    }
+  ]
+}
