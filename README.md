@@ -1,4 +1,4 @@
-<img src="./create_neapolitan.png" alt="Logo" width="200">
+<img src="src/main/resources/logo.png" alt="Logo" width="200">
 
 # Create: Neapolitan
 
