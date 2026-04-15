@@ -6,7 +6,7 @@ Compatibility between [Create](https://modrinth.com/mod/create) and [Neapolitan]
 
 Also supports [Create Crafts & Additions](https://modrinth.com/mod/createaddition)'s cakes!
 
-Download on [Modrinth](https://modrinth.com/mod/create-neapolitan) for Minecraft 1.21.1.
+Download on [Modrinth](https://modrinth.com/mod/create-neapolitan) or [Curseforge](https://www.curseforge.com/minecraft/mc-mods/create-neapolitan) for Minecraft 1.21.1 Neoforge.
 
 ## Features
 
