@@ -35,12 +35,12 @@ public class CreateNeapolitan {
     public static final IceCreamFluid BANANA_ICE_CREAM_FLUID = new IceCreamFluid("banana_ice_cream");
 
     public static final DeferredItem<PlainIceCreamItem> PLAIN_ICE_CREAM = ITEMS.register("plain_ice_cream", () -> new PlainIceCreamItem(new Item.Properties()
-            .food(new FoodProperties.Builder().nutrition(2).usingConvertsTo(Items.BOWL).build())
+            .food(new FoodProperties.Builder().nutrition(3).saturationModifier(0.3f).usingConvertsTo(Items.BOWL).build())
             .craftRemainder(Items.BOWL)
             .stacksTo(1)));
     public static final DeferredItem<SequencedPlainIceCreamItem>
             INCOMPLETE_NEAPOLITAN_ICE_CREAM = ITEMS.register("incomplete_neapolitan_ice_cream", () -> new SequencedPlainIceCreamItem(new Item.Properties()
-            .food(new FoodProperties.Builder().nutrition(2).usingConvertsTo(Items.BOWL).build())
+            .food(new FoodProperties.Builder().nutrition(4).saturationModifier(0.3f).usingConvertsTo(Items.BOWL).build())
             .craftRemainder(Items.BOWL)
             .stacksTo(1)));
 
